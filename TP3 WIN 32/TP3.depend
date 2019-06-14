@@ -1,0 +1,241 @@
+# depslib dependency file v1.0
+1533062952 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.c
+
+1533063050 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/LinkedList.h
+
+1533062926 /home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/Practica_Pair_v1.2/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533062952 source:/home/mauro/Descargas/TP3/Linux_64/Employee.c
+
+1533066103 source:/home/mauro/Descargas/TP3/Linux_64/main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1532354323 /home/mauro/Descargas/TP3/Linux_64/LinkedList.h
+
+1533066103 /home/mauro/Descargas/TP3/Linux_64/Employee.h
+
+1533063080 source:/home/mauro/Descargas/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533145792 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/LinkedList.h
+
+1533118898 /home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.h
+
+1533118898 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/Employee.c
+
+1533145890 source:/home/mauro/Descargas/TP3-20180801T173619Z-001/TP3/Linux_64/parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533133026 source:d:\mis documentos\michell\mchellin tp3\win_32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1533133022 d:\mis documentos\michell\mchellin tp3\win_32\linkedlist.h
+
+1559826310 d:\mis documentos\michell\mchellin tp3\win_32\employee.h
+
+1559825716 source:d:\mis documentos\michell\mchellin tp3\win_32\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1533133026 source:d:\mis documentos\michell\mchellin tp3\win_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+
+1533133022 d:\mis documentos\michell\mchellin tp3\win_32\controller.h
+
+1533133022 source:d:\mis documentos\michell\mchellin tp3\win_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+
+1559824840 source:d:\mis documentos\michell\mchellin tp3\win_32\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+
+1559824795 d:\mis documentos\michell\mchellin tp3\win_32\validaciones.h
+
+1560232817 source:d:\win_32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+	"parser.h"
+	"Validaciones.h"
+
+1559827054 d:\win_32\linkedlist.h
+
+1560228707 d:\win_32\employee.h
+
+1560230519 source:d:\win_32\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1560233002 source:d:\win_32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"Validaciones.h"
+
+1560393391 d:\win_32\controller.h
+
+1560228518 source:d:\win_32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1560225680 source:d:\win_32\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+
+1560225702 d:\win_32\validaciones.h
+
+1560127958 d:\win_32\parser.h
+	<stdio.h>
+	"LinkedList.h"
+
+1560485308 source:d:\documents\tp1-calculadora-master\tp3 win 32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+	"parser.h"
+	"Validaciones.h"
+
+1560388208 d:\documents\tp1-calculadora-master\tp3 win 32\linkedlist.h
+
+1560388208 d:\documents\tp1-calculadora-master\tp3 win 32\employee.h
+
+1560388208 d:\documents\tp1-calculadora-master\tp3 win 32\controller.h
+
+1560388208 d:\documents\tp1-calculadora-master\tp3 win 32\parser.h
+	<stdio.h>
+	"LinkedList.h"
+
+1560388208 d:\documents\tp1-calculadora-master\tp3 win 32\validaciones.h
+
+1560388208 source:d:\documents\tp1-calculadora-master\tp3 win 32\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1560481698 source:d:\documents\tp1-calculadora-master\tp3 win 32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"Validaciones.h"
+
+1560388208 source:d:\documents\tp1-calculadora-master\tp3 win 32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1560485015 source:d:\documents\tp1-calculadora-master\tp3 win 32\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+
+1560519189 source:d:\mis documentos\michell\privados-master\tp3 win 32\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Employee.h"
+	"Controller.h"
+	"parser.h"
+	"Validaciones.h"
+
+1560485459 d:\mis documentos\michell\privados-master\tp3 win 32\linkedlist.h
+
+1560485459 d:\mis documentos\michell\privados-master\tp3 win 32\employee.h
+
+1560485459 d:\mis documentos\michell\privados-master\tp3 win 32\controller.h
+
+1560485459 d:\mis documentos\michell\privados-master\tp3 win 32\parser.h
+	<stdio.h>
+	"LinkedList.h"
+
+1560518896 d:\mis documentos\michell\privados-master\tp3 win 32\validaciones.h
+
+1560485459 source:d:\mis documentos\michell\privados-master\tp3 win 32\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1560485459 source:d:\mis documentos\michell\privados-master\tp3 win 32\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	"Validaciones.h"
+
+1560485459 source:d:\mis documentos\michell\privados-master\tp3 win 32\parser.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"Employee.h"
+	"parser.h"
+
+1560519189 source:d:\mis documentos\michell\privados-master\tp3 win 32\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Validaciones.h"
+
