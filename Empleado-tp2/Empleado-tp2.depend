@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1557105678 source:d:\documents\programacion\empleado-tp2\empleado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Empleado.h"
+
+1557455217 source:d:\documents\programacion\empleado-tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Empleado.h"
+	"ArraysEmployes.h"
+
+1557454571 d:\documents\programacion\empleado-tp2\empleado.h
+
+1557455794 d:\documents\programacion\empleado-tp2\arraysemployes.h
+
+1557455172 source:d:\documents\programacion\empleado-tp2\arraysemployes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"ArraysEmployes.h"
+	"Empleado.h"
+
